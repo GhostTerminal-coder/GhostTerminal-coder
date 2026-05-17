@@ -127,16 +127,16 @@ My work covers **endpoint security, IAM, PAM, DLP, MDM, database security, virtu
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gtpabasara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050d1a&title_color=00d4b1&icon_color=00d4b1&text_color=c8d8ee" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtpabasara&layout=compact&theme=tokyonight&hide_border=true&bg_color=050d1a&title_color=00d4b1&text_color=c8d8ee" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GhostTerminal-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050d1a&title_color=00d4b1&icon_color=00d4b1&text_color=c8d8ee" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostTerminal-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=050d1a&title_color=00d4b1&text_color=c8d8ee" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=gtpabasara&theme=tokyonight&hide_border=true&background=050d1a&ring=00d4b1&fire=1e6fff&currStreakLabel=00d4b1" />
+<img width="70%" src="https://streak-stats.demolab.com?user=GhostTerminal-coder&theme=tokyonight&hide_border=true&background=050d1a&ring=00d4b1&fire=1e6fff&currStreakLabel=00d4b1" />
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gtpabasara&bg_color=050d1a&color=c8d8ee&line=00d4b1&point=1e6fff&area=true&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=GhostTerminal-coder&bg_color=050d1a&color=c8d8ee&line=00d4b1&point=1e6fff&area=true&hide_border=true" />
 
 </div>
 
@@ -146,7 +146,7 @@ My work covers **endpoint security, IAM, PAM, DLP, MDM, database security, virtu
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gtpabasara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=GhostTerminal-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
 
 </div>
 
