@@ -22,13 +22,6 @@ role: Senior System Engineer
 location: Sri Lanka 🇱🇰
 
 specialization:
-  - Endpoint Security
-  - Identity & Access Management
-  - Privileged Access Management
-  - Data Loss Prevention
-  - MDM Solutions
-  - Virtualization
-  - DevSecOps
-  - Enterprise Infrastructure
+ <table> <tr> <td align="center" width="33%"> <img src="https://img.icons8.com/fluency/96/security-checked.png" width="55"/><br/> <b>Endpoint Security</b><br/> EDR / XDR / EPP </td> <td align="center" width="33%"> <img src="https://img.icons8.com/fluency/96/lock.png" width="55"/><br/> <b>Privileged Access</b><br/> CyberArk / BeyondTrust </td> <td align="center" width="33%"> <img src="https://img.icons8.com/fluency/96/identity-theft.png" width="55"/><br/> <b>IAM Solutions</b><br/> Azure AD / Okta / MFA </td> </tr> <tr> <td align="center"> <img src="https://img.icons8.com/fluency/96/database.png" width="55"/><br/> <b>Database Security</b><br/> DAM / Monitoring </td> <td align="center"> <img src="https://img.icons8.com/fluency/96/source-code.png" width="55"/><br/> <b>Application Security</b><br/> DAST / SAST </td> <td align="center"> <img src="https://img.icons8.com/fluency/96/server.png" width="55"/><br/> <b>Infrastructure</b><br/> VMware / Hyper-V </td> </tr> </table>
 
 motto: "Every vulnerability is an opportunity to learn."
