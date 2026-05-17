@@ -14,33 +14,21 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+# 👨‍💻 About Me
 
 ```yaml
 name: Thurunu Pabasara
 role: Senior System Engineer
 location: Sri Lanka 🇱🇰
-focus:
-  - Enterprise Cybersecurity
-  - Infrastructure Engineering
+
+specialization:
   - Endpoint Security
   - Identity & Access Management
   - Privileged Access Management
   - Data Loss Prevention
-  - Solution Architecture
+  - MDM Solutions
+  - Virtualization
+  - DevSecOps
+  - Enterprise Infrastructure
+
 motto: "Every vulnerability is an opportunity to learn."
-
-<!--
-**GhostTerminal-coder/GhostTerminal-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
